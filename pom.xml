@@ -26,6 +26,11 @@
       <artifactId>hadoop-core</artifactId>
       <version>1.0.4</version>
     </dependency>
+    <!--dependency>
+      <groupId>org.apache.mrunit</groupId>
+      <artifactId>mrunit</artifactId>
+      <version>0.9.0-incubating</version>
+    </dependency-->
   </dependencies>
   <build>
     <plugins>
